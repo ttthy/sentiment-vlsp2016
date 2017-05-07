@@ -1,0 +1,1198 @@
+hấp_dẫn	0.875	0.0
+vui_vẻ	0.75	0.0
+dài	0.125	0.375
+phong_phú	0.0	0.25
+thừa_thãi	0.125	0.5
+khan_hiếm	0.0	0.25
+chấp_nhận	0.625	0.0
+chính_xác	0.5	0.0
+dễ_thương	0.5	0.0
+nhanh	0.25	0.125
+hoàn_chỉnh	0.5	0.0
+giản_lược	0.125	0.625
+khéo_tay	0.5	0.0
+nguyên_chất	0.625	0.0
+thuận_lợi	0.625	0.0
+có lợi	0.625	0.0
+tích_cực	0.75	0.0
+bất_lợi	0.0	0.75
+khuyến_khích	0.625	0.0
+tốt_hơn	0.75	0.0
+tốt nhất	0.75	0.0
+ảnh_hưởng	0.125	0.5
+ấn_tượng	0.5	0.0
+phủ_định	0.0	0.75
+đồng_ý	0.5	0.0
+sợ	0.0	0.5
+báo_động	0.0	0.625
+vị_tha	0.75	0.0
+mơ_hồ	0.125	0.0
+hào_phóng	0.25	0.0
+chật_hẹp	0.125	0.625
+tức_giận	0.0	0.875
+thích_hợp	0.75	0.0
+náo_nhiệt	0.375	0.0
+ngạc_nhiên	0.5	0.0
+ngon_lành	0.5	0.125
+láu_cá	0.125	0.5
+quý_báu	0.625	0.0
+sâu_sắc	0.625	0.0
+tự_nhiên	0.5	0.125
+bất_cẩn	0.25	0.5
+rõ_ràng	0.5	0.125
+nhút_nhát	0.375	0.5
+khờ_dại	0.125	0.5
+lo_lắng	0.125	0.5
+phô_trương	0.0	0.375
+xám_xịt	0.125	0.25
+thịnh_vượng	0.625	0.0
+thông_minh	0.5	0.0
+xấu	0.0	0.625
+khủng_khiếp	0.0	0.625
+đe_dọa	0.0	0.75
+yên_lòng	0.5	0.0
+quả_quyết	0.5	0.0
+xinh_đẹp	0.875	0.0
+rực_rỡ	0.75	0.0
+tiến_bộ	0.5	0.0
+hiểm_ác	0.0	0.75
+tốt_bụng	0.5	0.0
+tệ nhất	0.25	0.75
+hèn_nhát	0.0	0.5
+tái_mét	0.0	0.25
+tối_tăm	0.125	0.5
+hăng_hái	0.25	0.0
+vững_chắc	0.0	0.375
+nhàn_rỗi	0.5	0.125
+bình_tĩnh	0.375	0.0
+ổn_định	0.5	0.125
+bẩn_thỉu	0.0	0.75
+bực_dọc	0.0	0.5
+tối_dạ	0.0	0.5
+lưỡng_lự	0.125	0.125
+cẩn_thận	0.5	0.0
+cần_thiết	0.5	0.0
+trong_sáng	0.625	0.125
+trung_lập	0.25	0.25
+không sắc	0.25	0.25
+giàu	0.75	0.125
+đục	0.0	0.25
+sáng_sủa	0.5	0.0
+hà_khắc	0.0	0.75
+ngu_dốt	0.0	0.75
+yếu	0.125	0.375
+bí_mật	0.625	0.125
+hạn_chế	0.0	0.75
+không_thể	0.0	0.75
+tuyệt_đối	0.5	0.0
+lan_tràn	0.125	0.5
+thặng_dư	0.125	0.5
+xanh_tươi	0.5	0.125
+hiếm	0.0	0.875
+chặt_chẽ	0.125	0.5
+ngược_đãi	0.0	0.625
+chấp_nhận_được	0.625	0.0
+không quen_thuộc	0.0	0.75
+hoạt_động	0.5	0.125
+nóng	0.5	0.0
+nhộn_nhịp	0.5	0.0
+chậm_chạp	0.0	0.5
+chậm	0.0	0.75
+vô_hiệu	0.0	0.5
+ẩn	0.0	0.625
+khéo_léo	0.625	0.0
+nhanh_nhạy	0.5	0.0
+nghệ_thuật	0.625	0.0
+gây ấn_tượng sâu_sắc	0.5	0.0
+căng_thẳng	0.125	0.625
+thô_bạo	0.0	0.875
+e_ngại	0.125	0.625
+mất bình_tĩnh	0.0	0.625
+hung_dữ	0.0	0.5
+kích_động	0.0	0.5
+dễ_chịu	0.5	0.0
+khó_chịu	0.125	0.875
+khắc_nghiệt	0.333	0.667
+hữu_hiệu	0.5	0.0
+chết	0.0	0.75
+sống	0.5	0.0
+vô_hồn	0.0	0.75
+không_thể đổi	0.125	0.5
+không_thể chuyển_nhượng	0.125	0.5
+không hốt_hoảng	0.625	0.25
+kị	0.0	0.75
+dịu	0.125	0.5
+mềm	0.125	0.5
+ghen	0.25	0.625
+khách_quan	0.5	0.0
+vô_tư	0.5	0.0
+hỗn_tạp	0.0	0.625
+đinh tai nhức_óc	0.0	0.5
+đinh_tai	0.0	0.5
+nhức_óc	0.0	0.5
+tính được	0.5	0.0
+khôn_lường	0.125	0.625
+hoang_dã	0.375	0.5
+dơ	0.0	0.75
+quá cẩn_thận	0.5	0.0
+liều_lĩnh	0.125	0.75
+thận_trọng	0.75	0.0
+mạch_lạc	0.5	0.0
+yên_tâm	0.625	0.0
+được chứng_nhận	0.5	0.0
+điều_chỉnh	0.625	0.0
+không thay_đổi	0.0	0.625
+uyển_chuyển	0.625	0.0
+xin_lỗi	0.0	0.625
+sôi_động	0.625	0.25
+xanh_xao	0.125	0.5
+nhạt	0.125	0.5
+nhân_đạo	0.625	0.0
+nguyên	0.0	0.75
+sạch	0.5	0.0
+nguyên_sơ	0.5	0.125
+dơ_bẩn	0.0	0.75
+thô_tục	0.0	0.75
+tệ_hại	0.0	0.625
+tệ	0.0	0.625
+sắc_bén	0.5	0.0
+dễ_hiểu	0.5	0.0
+sống_động	0.5	0.125
+rắn	0.25	0.5
+nhầm_lẫn	0.0	0.75
+hiền	0.5	0.125
+quá_mức	0.0	0.625
+xấu_số	0.0	0.75
+ngu_si	0.0	0.75
+thân_mật	0.75	0.0
+phân_tách	0.0	0.5
+dễ_cháy	0.0	0.5
+gây cháy	0.0	0.625
+đau_đớn	0.0	0.625
+thoải_mái	0.625	0.0
+không xứng	0.0	0.625
+thường	0.5	0.25
+đặc_biệt	0.625	0.0
+độc_đáo	0.5	0.0
+bở	0.0	0.5
+lãnh_đạm	0.25	0.625
+tương_thích	0.5	0.0
+đối_kháng	0.25	0.5
+xung_đột	0.125	0.625
+có thẩm_quyền	0.75	0.0
+phàn_nàn	0.0	0.75
+nén	0.5	0.0
+toàn_diện	0.75	0.0
+triệt_để	0.875	0.0
+thản_nhiên	0.625	0.0
+khó_hiểu	0.125	0.5
+đơn_độc	0.0	0.625
+mật_độ thấp	0.0	0.5
+liên_quan	0.5	0.375
+thờ_ơ	0.125	0.625
+tạm_thời	0.0	0.625
+chia_rẽ bè_phái	0.0	0.5
+giới_hạn	0.0	0.75
+hòa_đồng	0.75	0.0
+phản_cảm	0.0	0.625
+hài_hòa	0.625	0.0
+bảo_thủ cực_đoan	0.0	0.5
+dễ_thấy	0.75	0.0
+nổi_tiếng	0.5	0.0
+lớn	0.5	0.0
+đậm	0.5	0.0
+vô_hình	0.125	0.5
+không dễ_thấy	0.125	0.5
+không_thể nhận_rõ	0.25	0.75
+phân_biệt	0.625	0.0
+phá_hủy	0.0	0.625
+tàn_phá	0.0	0.75
+tự_mãn	0.25	0.5
+tự hài_lòng	0.25	0.5
+bất_mãn	0.125	0.75
+liên_tục	0.125	0.5
+hung_hăng	0.0	0.625
+thuận_tiện	0.625	0.25
+bất_tiện	0.125	0.75
+vụng	0.0	0.75
+nhận_được	0.5	0.0
+thông_thường	0.0	0.625
+đáng_tin_cậy	0.5	0.0
+hoang_sơ	0.0	0.875
+bẩn_thỉu dơ_bẩn	0.0	0.75
+giả_dối	0.125	0.75
+sai_lầm	0.25	0.625
+lầm	0.25	0.625
+lịch_sự	0.875	0.0
+đột_ngột	0.125	0.5
+bất_lịch_sự	0.0	0.5
+quan_trọng	0.5	0.0
+nghiêm_trọng	0.0	0.625
+không quan_trọng	0.0	0.5
+đáng_ghét	0.25	0.75
+may_mắn	0.875	0.0
+may	0.875	0.0
+hỏng	0.0	0.75
+quyết_định	0.5	0.125
+đoan_trang	0.75	0.0
+nghiêm_trang	0.75	0.125
+liêm_khiết	0.75	0.25
+bất_hợp_tác	0.0	0.625
+khiêu_dâm	0.0	0.625
+kiên_quyết	0.5	0.125
+do_dự	0.0	0.625
+khẳng_định	0.5	0.0
+đánh_bại	0.5	0.0
+bất_khả_chiến_bại	0.5	0.0
+nghịch_ngợm	0.0	0.5
+ngoan_cố	0.0	0.75
+tuân_theo	0.5	0.0
+xác_định	0.75	0.0
+chán_nản	0.0	0.625
+phấn_chấn	0.625	0.25
+yếu_đuối mỏng_manh	0.0	0.625
+dễ_tính	0.5	0.125
+tuyệt_vọng	0.0	0.5
+dân_chủ	0.625	0.25
+phi dân_chủ	0.0	0.625
+chắc_chắn	0.625	0.0
+bất_lực	0.0	0.75
+mong_muốn	0.5	0.0
+đổ_nát	0.0	0.5
+đắm	0.0	0.625
+bảo_tồn	0.625	0.0
+phát_hiện	0.625	0.0
+quyết_tâm	0.625	0.0
+gian_khổ	0.125	0.75
+nhạy_cảm	0.75	0.125
+trục_trặc	0.125	0.875
+cố_gắng	0.0	0.5
+bực_bội	0.0	0.625
+nghiêm	0.5	0.25
+ngớ_ngẩn	0.0	0.625
+cẩu_thả	0.25	0.5
+tập_trung	0.625	0.0
+không tương_thích	0.0	0.625
+không cạnh_tranh	0.0	0.75
+không nén được	0.0	0.625
+không cân_đối	0.0	0.625
+lịch_thiệp	0.5	0.0
+xa_lánh	0.0	0.75
+vô_tội_vạ	0.0	0.5
+thẳng	0.5	0.125
+tàn_bạo	0.0	0.625
+sành_điệu	0.875	0.0
+sáng_suốt	0.625	0.0
+kín_đáo	0.625	0.0
+phân_biệt đối_xử	0.625	0.0
+bừa_bãi	0.125	0.625
+lăng_nhăng	0.0	0.75
+đánh_giá cao	0.5	0.0
+chọn_lọc	0.625	0.0
+không rời_rạc	0.75	0.0
+độc_đoán	0.125	0.5
+bắt_nạt	0.125	0.5
+phục_tùng	0.75	0.0
+không_phục	0.25	0.75
+sở_hữu	0.625	0.0
+khoa_trương	0.5	0.125
+sặc_sỡ	0.5	0.0
+tỉnh_táo	0.625	0.0
+sinh_động	0.5	0.0
+mát_mẻ	0.625	0.25
+lấp_lánh	0.75	0.25
+lạc_hậu	0.0	0.5
+ham	0.625	0.25
+danh_dự	0.625	0.125
+dễ_dàng	0.625	0.0
+ít_học	0.25	0.75
+không_còn tồn_tại	0.0	0.75
+vất_vả	0.0	0.5
+mạnh_mẽ	0.0	0.5
+bắt_buộc	0.5	0.0
+đủ_điều_kiện	0.5	0.0
+xứng_đáng	0.5	0.0
+phù_hợp mong_muốn	0.5	0.0
+cảm	0.5	0.25
+kiên_nhẫn	0.75	0.0
+thất_nghiệp	0.0	0.625
+say_mê	0.75	0.0
+thất_vọng	0.0	0.875
+vỡ_mộng	0.5	0.375
+lơ_đãng	0.25	0.5
+tối_giản	0.0	0.625
+giác_ngộ	0.5	0.0
+không gan_dạ	0.25	0.625
+nhiệt_tình	0.625	0.0
+ganh_tị	0.375	0.5
+nhớ_nhà	0.75	0.0
+phức_tạp	0.125	0.5
+tôn_kính	0.75	0.0
+khinh	0.0	0.75
+thương_tâm	0.333	0.667
+thảm_hại đáng_thương	0.333	0.667
+đạo_đức	0.625	0.0
+miễn_phí	0.5	0.0
+ca_ngợi	0.5	0.25
+chê_bai	0.0	0.75
+loang_lổ	0.0	0.75
+điên	0.25	0.5
+khiển_trách	0.0	0.5
+cạn_kiệt	0.625	0.0
+tái_tạo	0.625	0.0
+tiêu_hao	0.0	0.75
+đắt	0.5	0.0
+hợp_lệ	0.5	0.0
+mở_rộng	0.5	0.0
+công_bằng	0.5	0.0
+trung_thực	0.625	0.25
+bất_công	0.25	0.625
+không_công_bằng	0.25	0.625
+trung_thành	0.625	0.0
+chung_thủy	0.625	0.0
+bỏ_đạo	0.0	0.625
+nguy_hiểm	0.0	0.5
+không đúng sự_thật	0.125	0.75
+chịu_nổi	0.0	0.5
+lang_thang	0.25	0.625
+lạ	0.0	0.625
+kỳ_lạ	0.5	0.0
+khó_tính	0.5	0.0
+mảnh_dẻ	0.5	0.0
+khổ_sở	0.0	0.75
+vớ_vẩn	0.0	0.75
+bất_hạnh	0.0	1.0
+ngon	0.625	0.25
+gọn_gàng	0.5	0.0
+trật_tự	0.5	0.375
+không_thể_tưởng_tượng	0.0	0.625
+chu_đáo	0.625	0.0
+vô_tâm	0.0	0.75
+không suy_nghĩ	0.0	0.75
+không_biết suy_nghĩ	0.0	0.75
+ngăn_nắp	0.625	0.0
+chỉnh_tề	0.625	0.0
+bù_xù	0.125	0.75
+bị làm nhàu	0.125	0.75
+nhăn nhúm	0.125	0.75
+lộn_xộn	0.0	0.5
+không trật_tự	0.0	0.5
+mất trật_tự	0.0	0.5
+bừa_bộn	0.0	0.875
+không chịu_đựng được	0.0	0.625
+không_thể chịu_đựng	0.0	0.625
+không_thể chấp_nhận	0.0	0.625
+cay_đắng	0.0	0.5
+chịu	0.5	0.0
+không độc	0.0	0.625
+không có chất_độc	0.0	0.625
+khó	0.0	0.75
+quấy_rầy	0.0	0.5
+làm_phiền	0.0	0.5
+quấy_rối	0.0	0.5
+khổ	0.0	0.5
+thanh_thản	0.0	0.625
+gian_dối	0.0	0.75
+cảnh_giác	0.0	0.625
+nghi_ngờ	0.0	0.625
+tin_cậy	0.5	0.0
+không điển_hình	0.0	0.75
+cao_cấp	0.5	0.0
+vô_dụng	0.125	0.625
+vô_ích	0.0	0.5
+dùng được	0.5	0.0
+không hợp_lệ	0.0	0.75
+vô_giá_trị	0.75	0.25
+vặt	0.125	0.5
+không_đáng_kể	0.125	0.5
+vô_nghĩa	0.0	0.625
+không có ý định	0.0	0.625
+vô_tội	0.625	0.125
+không_có gì chê_trách được	0.625	0.125
+ác	0.0	0.625
+nồng_nhiệt	0.5	0.25
+mong_mỏi	0.625	0.0
+hoan_nghênh	0.5	0.0
+bình_phục	0.625	0.375
+chữa lành	0.625	0.375
+chữa khỏi	0.625	0.375
+bị viêm cuống_phổi	0.0	0.625
+chóng_mặt	0.0	0.75
+ham_chơi số 1 chóng_mặt	0.0	0.75
+là lạ	0.0	0.625
+xanh	0.0	0.75
+tê_liệt	0.0	0.5
+liệt	0.0	0.5
+dính	0.0	0.5
+lành_mạnh	0.625	0.0
+hợp_vệ_sinh	0.875	0.0
+dễ sử_dụng	0.0	0.5
+sẵn_sàng	0.5	0.0
+không muốn	0.0	0.75
+miễn_cưỡng	0.125	0.625
+khôn	0.625	0.0
+ngu_ngốc	0.0	0.625
+dốt	0.0	0.625
+mòn	0.0	0.5
+đáng_khen_ngợi	0.625	0.0
+#1 rất đáng mừng	0.625	0.0
+đáng hoan_nghênh	0.625	0.0
+quý_giá	0.625	0.0
+thiêng liêng	0.75	0.0
+không xác_đáng	0.5	0.0
+lành	0.0	0.75
+ác_tính	0.5	0.25
+tiêu_độc	0.375	0.5
+kháng virus	0.5	0.0
+dị_ứng	0.0	0.625
+suy_nhược	0.0	0.5
+nhân_từ	0.625	0.0
+không vành	0.0	0.5
+háu_ăn	0.0	0.625
+gây ung_thư	0.125	0.5
+tuần_hoàn	0.5	0.0
+suy_giảm_miễn_dịch	0.0	0.75
+bền_vững	0.625	0.0
+kháng_khuẩn	0.625	0.0
+phi tài_chính	0.0	0.5
+phi ngôn_ngữ	0.0	0.75
+cá_nhân	0.125	0.5
+phi tham_số	0.0	0.625
+hợp_lý	0.5	0.0
+êm_tai	0.625	0.25
+tinh_túy	0.625	0.0
+co_cứng	0.125	0.625
+hại	0.0	0.625
+lạm_dụng	0.0	0.875
+vu_khống	0.0	0.875
+bôi_nhọ	0.0	0.875
+phỉ_báng	0.0	0.875
+nói_xấu	0.0	0.875
+gièm_pha	0.0	0.875
+tai_hại	0.0	0.75
+thê_thảm	0.0	0.75
+phản_tác_dụng	0.125	0.5
+tồi	0.0	0.75
+xảo_quyệt	0.0	0.625
+quỷ_quyệt	0.0	0.625
+có_hại	0.0	0.5
+đau_thương	0.0	0.75
+đau_nhói	0.0	0.75
+du_dương	0.75	0.0
+tinh_khiết	0.5	0.25
+không điều hòa	0.0	0.75
+kháng_sinh	0.625	0.0
+bổ_ích	0.875	0.0
+hữu_cơ	0.625	0.0
+phòng_ngừa	0.75	0.0
+phòng	0.75	0.0
+ngăn_chặn	0.75	0.0
+hại_sức_khỏe	0.0	0.5
+vô_hiệu_hóa	0.0	0.5
+làm tê_liệt	0.0	0.5
+gây_bệnh	0.0	0.5
+không lành_mạnh	0.125	0.875
+không hoạt_động	0.25	0.75
+hỗn_loạn	0.0	0.625
+hữu_hình	0.5	0.0
+có_thể sờ_mó được	0.5	0.0
+phi vật thể	0.125	0.625
+không sờ_thấy được	0.125	0.625
+vô hình	0.125	0.625
+gây sốt	0.0	0.5
+hồng_hào	0.875	0.0
+hồng	0.875	0.0
+má_hồng	0.875	0.0
+khỏe_khoắn	0.625	0.0
+khỏe_mạnh	0.75	0.0
+khỏe	0.75	0.0
+mạnh	0.75	0.0
+săn chắc	0.75	0.0
+săn	0.75	0.0
+chắc	0.75	0.0
+sung_sức	0.75	0.0
+tráng_kiện	0.75	0.0
+mạnh_khỏe	0.75	0.0
+tươi_tắn	0.5	0.0
+đỏ_ửng	0.5	0.0
+tươi như hoa	0.5	0.0
+trẻ_trung	0.75	0.0
+nhức_nhối	0.0	0.875
+đỏ_ngầu	0.0	0.75
+không khỏe_mạnh	0.0	1.0
+không tốt	0.0	1.0
+bị loét	0.0	0.625
+bị ung_loét	0.0	0.625
+bị thối mục	0.0	0.625
+đầy khí	0.0	0.625
+đau_bụng	0.0	0.625
+bệnh_lý	0.125	0.625
+bệnh_học	0.125	0.625
+bệnh_hoạn	0.125	0.625
+bệnh	0.125	0.625
+bị chứng_phù	0.0	0.75
+phù	0.0	0.75
+bị thối hoại	0.0	0.5
+hoại_tử	0.0	0.5
+sưng_tấy	0.0	0.875
+tấy	0.0	0.875
+viêm	0.0	0.75
+vàng	0.0	0.625
+vàng da	0.0	0.625
+tâm_thần	0.125	0.5
+ốm_yếu	0.0	0.875
+vàng_vọt	0.0	0.875
+bị đau_mắt	0.0	0.75
+bị giãn tĩnh_mạch	0.0	0.875
+khô	0.0	0.75
+có đờm	0.5	0.375
+trên thiên_đường	0.5	0.0
+thanh_tao	0.5	0.0
+như thiên_đàng	0.5	0.0
+thần_thánh	0.5	0.0
+thiêng_liêng	0.5	0.0
+thuộc trái_đất	0.0	0.5
+trần_tục	0.0	0.5
+nhẹ	0.0	0.5
+đầy_hơi	0.0	0.5
+không tiêu	0.0	0.5
+nặng_bụng	0.125	0.625
+hạng nhẹ	0.0	0.75
+nặng_nề	0.0	0.625
+đáng_lo_ngại	0.0	0.875
+nhiễu_loạn	0.0	0.875
+đau	0.0	0.875
+buồn_phiền	0.0	0.875
+làm buồn_rầu	0.0	0.875
+sẵn_lòng giúp_đỡ	0.5	0.0
+không đều	0.0	0.5
+không đồng_nhất	0.0	0.5
+nhẹ_nhàng	0.0	0.625
+giúp_đỡ	0.5	0.0
+giữ thể_diện	0.5	0.0
+công_nghệ cao	0.5	0.0
+lãi_suất thấp	0.25	0.5
+lãi_suất cao	0.125	0.5
+nâng_cao	0.5	0.0
+xuống	0.0	0.5
+giảm	0.0	0.5
+sắc nét	0.5	0.0
+khàn_khàn	0.0	0.625
+mô_phỏng	0.0	0.5
+dị	0.0	0.625
+dị_dạng	0.0	0.625
+biến_dị	0.0	0.625
+sai sự_thật	0.0	0.625
+danh	0.75	0.0
+kính	0.5	0.0
+đáng_kính_trọng	0.5	0.0
+chất_lượng kém	0.125	0.75
+lừa_đảo	0.125	0.75
+gây hiểu_lầm	0.125	0.75
+vô_vọng	0.0	0.75
+gian_lận	0.0	0.625
+đê_tiện	0.0	0.5
+lăng_nhục	0.125	0.5
+đáng xấu_hổ	0.125	0.5
+ô_nhục	0.125	0.5
+đen_tối	0.125	0.5
+xuống_cấp	0.0	0.625
+giảm_giá_trị	0.0	0.625
+không có tương_lai	0.0	0.625
+ứ_đọng	0.0	0.625
+chang_chang	0.0	0.75
+nhiệt_đới	0.0	0.5
+lạnh_toát	0.0	0.625
+cực	0.0	0.75
+băng	0.0	0.75
+2 bị lạnh	0.0	0.75
+lạnh bắc_cực	0.0	0.75
+rất lạnh	0.0	0.75
+sinh_hàn	0.0	0.5
+có_thể làm nóng	0.625	0.0
+oi_ả	0.0	0.625
+ngột_ngạt	0.0	0.625
+phi thường	0.5	0.0
+không_phải người	0.0	0.625
+không cảm_động	0.0	0.625
+máu_lạnh	0.0	0.625
+lạnh_lùng	0.0	0.625
+vui_nhộn	0.5	0.125
+đùa	0.875	0.0
+vui_đùa	0.875	0.0
+pha_trò	0.875	0.0
+thân_giao	0.5	0.0
+am_hiểu	0.5	0.0
+biết	0.5	0.0
+truyền_nhiễm	0.0	0.625
+công_nghiệp	0.625	0.0
+thương	0.0	0.625
+đề_cao	0.625	0.0
+cao_cả	0.625	0.0
+nam_tính	0.5	0.125
+tánh chất đàn_ông	0.5	0.125
+dũng_cảm	0.5	0.125
+quản_lý	0.625	0.0
+vị thành_niên	0.0	0.75
+chưa trưởng_thành	0.0	0.75
+thứ	0.0	0.75
+không nhiễm_từ	0.0	0.625
+sưng	0.0	0.625
+sưng lên	0.0	0.625
+sưng phù	0.0	0.625
+sưng_húp	0.0	0.625
+ỏng	0.0	0.625
+bị nhọt	0.0	0.75
+có nhọt	0.0	0.75
+bị sâu	0.0	0.5
+cánh_tay_phải	0.625	0.0
+không xếp_hạng	0.0	0.625
+không có thứ_tự	0.0	0.625
+không phân_cấp	0.0	0.625
+tương_tự	0.0	0.5
+tương_đồng	0.0	0.5
+đồng_đẳng	0.0	0.5
+không_trung_thực	0.0	0.875
+không_thể giải_khuây	0.0	0.75
+không nguôi_ngoai	0.0	0.75
+đứng	0.0	0.5
+hiếu_khách	0.5	0.0
+có ác_cảm	0.25	0.75
+gây ác_cảm	0.25	0.75
+đối_lập	0.25	0.75
+tàn_nhẫn	0.0	0.625
+hung_bạo	0.125	0.5
+vũ_phu	0.125	0.5
+thú_tính	0.125	0.5
+đáng cười	0.5	0.0
+tức_cười	0.5	0.0
+hài_hước	0.5	0.0
+vui	0.5	0.0
+nhận_dạng được	0.625	0.0
+vô_định	0.0	0.5
+ung_dung	0.0	0.625
+có_thể định rõ	0.625	0.0
+khiếm	0.125	0.625
+suy_yếu	0.0	0.5
+hỏng_hóc	0.0	0.5
+giảm_sút	0.0	0.5
+có_thể cảm_thấy	0.625	0.0
+đáng chú_ý	0.625	0.0
+có_thể nhận_thấy rõ	0.625	0.0
+nhận_biết	0.5	0.0
+có_thể_quan_sát	0.5	0.0
+mù_quáng	0.0	0.75
+khó sờ_thấy	0.25	0.625
+hoàn_hảo	0.625	0.0
+trọn_vẹn	0.625	0.0
+lý_tưởng	0.75	0.0
+không hoàn_hảo	0.125	0.75
+lỗi	0.0	0.5
+bất_thường	0.0	0.625
+phân hủy_sinh_học	0.625	0.0
+thường_trực	0.0	0.625
+kéo_dài	0.0	0.625
+được_chấp_nhận	0.5	0.0
+cách_âm	0.0	0.75
+kháng	0.125	0.625
+bất_tín	0.0	0.625
+vô_thần	0.0	0.625
+không tín_ngưỡng	0.25	0.5
+ngoại_đạo	0.0	0.625
+dễ an_ủi	0.625	0.0
+gay_gắt	0.125	0.625
+không_đội_trời chung	0.0	0.675
+đẹp	0.625	0.0
+không thuyết_phục	0.0	0.5
+không_thể tin	0.0	0.5
+không_thể_xảy_ra	0.0	0.5
+không hài_lòng	0.125	0.75
+vui_mừng	0.5	0.0
+hài_lòng	0.5	0.0
+mất_lòng	0.0	0.75
+bạc_bẽo	0.0	0.875
+cau_mày	0.375	0.5
+duyên_dáng	0.875	0.0
+tuyệt_vời	0.875	0.0
+thần kì	0.875	0.0
+đáng ngưỡng_mộ	0.875	0.0
+thú_vị	0.75	0.0
+ngọt_ngào	0.875	0.0
+thô	0.0	0.75
+khôn_ngoan	0.5	0.0
+thất_sách	0.125	0.625
+lạc_quan	0.75	0.125
+dương	0.625	0.125
+có_thể	0.5	0.0
+không_thể thực_hiện	0.0	0.75
+không khả_thi	0.0	0.75
+không_thể làm	0.0	0.625
+thể hoàn tác	0.0	0.625
+không_thể đạt được	0.0	0.625
+cao_thế	0.5	0.0
+công_suất cao	0.5	0.0
+tự_cao	0.125	0.375
+tự_phụ	0.125	0.375
+kiêu_ngạo	0.125	0.375
+không_thể đoán_trước	0.0	0.625
+quái_đản	0.125	0.625
+thất_thường	0.125	0.625
+vắng_mặt	0.125	0.625
+gây chú_ý	0.5	0.0
+sinh_lợi	0.75	0.0
+lời_lãi	0.75	0.0
+chính_đáng	0.75	0.0
+nông_cạn	0.0	0.5
+điềm_báo	0.125	0.675
+điềm gở	0.125	0.675
+không thuận_tiện	0.125	0.75
+không hợp lễ	0.125	0.75
+vô_duyên	0.125	0.75
+không lịch_sự	0.125	0.75
+không đứng_đắn	0.125	0.75
+bảo_vệ	0.625	0.0
+báo_trước	0.0	0.5
+cảnh_báo	0.0	0.5
+được bảo_vệ	0.0	0.75
+quá tự_hào	0.5	0.125
+khiêm_tốn	0.75	0.0
+nhu_mì	0.75	0.0
+thiếu thận_trọng	0.25	0.625
+không_được giáo_dục	0.0	0.625
+vô_giáo_dục	0.0	0.625
+không trong_sạch	0.0	0.625
+không pha_trộn	0.125	0.875
+không bị trộn_lẫn	0.125	0.875
+không đủ_tiêu_chuẩn	0.0	0.625
+vô_kỷ_luật	0.0	0.625
+bị biến_đổi	0.125	0.5
+định_lượng được	0.625	0.0
+chất_lượng	0.5	0.0
+chủ_tâm	0.5	0.0
+minh_mẫn	0.75	0.0
+vô_lý	0.0	0.5
+huyền_thoại	0.25	0.25
+truyền_thuyết	0.25	0.25
+không thực_tế	0.0	0.75
+không có cơ_sở	0.0	0.5
+không_thể biện_minh	0.0	0.5
+chưa tinh_chế	0.0	0.75
+chưa qua chế_biến	0.0	0.75
+tinh	0.5	0.25
+mất	0.0	0.5
+uy_tín	0.875	0.0
+vinh_dự	0.75	0.0
+quý	0.75	0.0
+không xứng_đáng	0.25	0.625
+thù_địch	0.0	0.75
+xúc_phạm	0.0	0.625
+vô_trách_nhiệm	0.0	0.5
+không phản_hồi	0.0	0.75
+vô_công rồi nghề	0.125	0.5
+bất_trị	0.0	0.625
+không_thể kiềm_chế	0.0	0.625
+không bị kiểm_soát	0.0	0.625
+không bị ngăn_chặn	0.0	0.625
+bất_kính	0.0	0.5
+không_được đánh_thức	0.0	0.625
+phản	0.0	0.625
+thuộc khu ổ_chuột	0.0	0.625
+thẳng_thắn	0.75	0.0
+đứng_đắn	0.75	0.0
+thép	0.5	0.125
+đanh_thép	0.5	0.125
+mập_mạp	0.5	0.25
+cứng_cỏi	0.5	0.25
+yếu_đuối	0.0	0.625
+chưa mở	0.0	0.5
+vô_nguyên_tắc	0.0	0.625
+vô_lương_tâm	0.0	0.75
+an_toàn	0.5	0.25
+bảo_đảm	0.75	0.0
+run	0.0	0.75
+bấp_bênh	0.0	0.75
+tháo	0.0	0.5
+bảo_hiểm	0.625	0.0
+cấp_trên	0.625	0.0
+hạng_sang	0.625	0.0
+chia_sẻ	0.5	0.0
+vô_cảm	0.0	0.5
+gây_mê	0.125	0.75
+kích_thích	0.5	0.0
+dễ bị kích_thích	0.5	0.0
+màu_mỡ	0.625	0.0
+dồi_dào	0.5	0.0
+chưa hoàn_thành	0.0	0.625
+bị cạn_kiệt	0.0	0.625
+hạn	0.0	0.625
+vô_hạn	0.125	0.5
+phân_hạch	0.5	0.0
+phù_hợp với	0.0	0.75
+không thích_hợp	0.75	0.25
+tàn_tật	0.0	0.75
+khuyết_tật	0.0	0.75
+dai_dẳng	0.125	0.5
+ám_ảnh	0.125	0.5
+không_hề khoan_nhượng	0.0	0.75
+ngẫu_nhiên	0.5	0.0
+định_mệnh	0.0	0.75
+thơm	0.5	0.0
+mùi_hôi_thối	0.0	0.75
+mốc	0.0	0.875
+hôi	0.0	0.75
+mùi_thối	0.0	0.7
+thối	0.0	0.7
+mùi dễ_chịu	0.75	0.0
+ràng_buộc	0.0	0.625
+không cố_định	0.125	0.625
+không bị cản_trở	0.0	0.625
+không hạn_chế	0.5	0.0
+không tự_do	0.0	0.75
+không thường_xuyên	0.0	0.625
+hư_hỏng	0.0	0.75
+tươi	0.625	0.0
+vui_tính	0.625	0.0
+láng_giềng	0.625	0.0
+không thân_thiện	0.0	0.75
+lạnh	0.125	0.625
+tê_buốt	0.0	0.5
+tan	0.0	0.5
+hiệu_quả	0.5	0.0
+trắng	0.0	0.5
+trống	0.0	0.5
+hào_hùng	0.5	0.0
+chính_hãng	0.636	0.0
+thực_sự	0.6	0.4
+xác_thực	0.6	0.4
+giả	0.0	0.556
+giả_mạo	0.0	0.75
+vinh_quang	0.625	0.25
+sáng	0.625	0.125
+siêu	0.625	0.0
+không_kể_xiết	0.0	0.875
+khó_khăn	0.0	0.625
+cực_xấu	0.0	0.875
+bốc_mùi_hôi_thối	0.0	0.75
+không_biết xấu_hổ	0.0	0.875
+thánh_thiện	0.625	0.0
+tiết_kiệm	0.625	0.0
+trong trắng	0.75	0.0
+dã_man	0.0	0.875
+nham_hiểm	0.0	0.75
+tham_nhũng	0.333	0.667
+xấu_xa	0.125	0.875
+ủ_rũ	0.25	0.625
+hờn_dỗi	0.0	0.625
+yểu_điệu	0.125	0.5
+vu_khống bôi_nhọ	0.0	0.875
+gây tác_hại	0.0	0.75
+thảm_họa	0.0	0.75
+tinh_nghịch	0.0	0.625
+phục_hồi	0.625	0.125
+hạ_sốt	0.5	0.0
+khó_tiêu	0.0	0.625
+kiêu_căng	0.0	0.5
+sốt_sắng	0.625	0.25
+vô_nhân_đạo	0.0	0.75
+thong_thả	0.0	0.75
+nhàn_nhã	0.0	0.625
+khôi_hài	0.625	0.0
+dí_dỏm	0.5	0.0
+khó nắm_bắt	0.0	0.625
+trơ	0.0	0.625
+đần_độn	0.0	0.5
+nhạy	0.0	0.5
+tê_tái	0.0	0.5
+bị áp xe	0.0	0.5
+làm nhiễm	0.25	0.5
+thối_rữa	0.0	0.625
+thối_nát	0.0	0.625
+khử_trùng	0.75	0.0
+không bị nhiễm_bệnh	0.625	0.0
+vô_trùng	0.625	0.0
+phù_phiếm	0.0	0.75
+vui_tươi	0.625	0.0
+nhõng_nhẽo	0.125	0.5
+gợi_cảm	0.625	0.0
+lãnh_cảm	0.5	0.125
+cân_đối	0.75	0.0
+độc_quyền	0.0	0.75
+duy_nhất	0.0	0.75
+tác_dụng	0.5	0.0
+không phức_tạp	0.5	0.375
+không biến_chứng	0.5	0.375
+chân_thành	0.625	0.0
+thành_thạo	0.625	0.0
+tập	0.625	0.0
+chuyên_gia	0.625	0.0
+chuyên_nghiệp	0.625	0.0
+tinh_tế	0.75	0.0
+siêu_mịn	0.5	0.0
+khói	0.0	0.5
+khói thuốc	0.5	0.0
+cả_tin	0.5	0.0
+kiên_cố	0.75	0.0
+không bão hòa	0.0	0.5
+tinh_thần	0.5	0.0
+lanh_lợi	0.5	0.125
+nhẫn_tâm	0.5	0.125
+rung_rinh	0.5	0.0
+loạng_choạng	0.5	0.0
+run_rẩy	0.5	0.0
+ọp_ẹp	0.5	0.0
+đối_đầu	0.125	0.5
+thân_thiện	0.875	0.0
+dại	0.0	0.5
+sự_chống_đối Do Thái	0.0	0.75
+chống Do Thái	0.0	0.75
+suy_nhược thần_kinh	0.0	0.5
+sốt	0.0	0.5
+công_tước	0.75	0.0
+thần_kinh	0.0	0.5
+gây đột_biến	0.5	0.0
+lác_mắt	0.0	0.5
+tiền ung_thư	0.0	0.5
+thực_ bào	0.625	0.0
+thích	0.875	0.0
+ước	0.125	0.0
+quan_tâm	0.125	0.0
+giao điểm	0.0	0.625
+tốt	0.875	0.0
+do dự	0.125	0.625
+ngập_ngừng	0.125	0.625
+nạn_nhân	0.125	0.625
+tai_họa	0.0	0.5
+rắc_rối	0.0	0.875
+sự_bất_tiện	0.0	0.875
+bất tiện	0.0	0.875
+xúc phạm	0.0	0.875
+phiền	0.0	0.875
+xấu_hổ	0.0	0.5
+không ưa	0.0	0.5
+sai	0.0	0.75
+định_kiến	0.0	0.625
+buồn_bã	0.0	0.625
+không may_mắn	0.0	0.875
+đáng_tiếc	0.0	0.875
+than_ôi	0.0	0.875
+ám_sát	0.5	0.6
+thoát	0.5	0.0
+cướp	0.0	0.5
+ăn_cắp	0.0	0.5
+tặng	0.625	0.0
+hiến	0.625	0.0
+xem	0.75	0.0
+bứt_rứt	0.0	0.875
+châm_chích	0.0	0.875
+gai	0.0	0.75
+chịu đựng	0.5	0.0
+tỏa sáng	0.75	0.125
+bừng sáng	0.75	0.125
+rạng rỡ	0.75	0.125
+mùi	0.0	0.875
+ngưỡng_mộ	0.625	0.0
+dường_như	0.5	0.125
+phù_hợp	0.875	0.0
+giá quá thấp	0.0	0.5
+đổ	0.0	0.5
+tự_do	0.5	0.0
+bán	0.0	0.5
+phản_bội	0.0	0.5
+hội_đủ điều_kiện	0.625	0.0
+hóa lẫn	0.5	0.25
+đứng yên	0.0	0.5
+thủ_đoạn	0.0	0.875
+độc	0.0	0.5
+bại_hoại	0.0	0.625
+lật_đổ thô_tục	0.0	0.625
+gởi lộn	0.0	0.625
+suy đồi	0.0	0.625
+hư	0.0	0.625
+nhục	0.0	0.625
+chống_đỡ	0.0	0.5
+phục_hồi chức_năng	0.625	0.0
+giải_phóng	0.5	0.0
+giải trừ	0.5	0.0
+hy_sinh	0.0	0.5
+cho	0.0	0.5
+trả_giá cao hơn	0.0	0.5
+bụi	0.0	0.5
+đẩy_lùi	0.25	0.125
+hy_vọng	0.625	0.25
+nỗi thống_khổ	0.0	0.5
+giận_dữ	0.0	0.75
+do_đó	0.625	0.0
+không chỉ có lỗi	0.0	0.6
+còn nhỏ	0.125	0.5
+mơ_mộng	0.5	0.125
+không_phải chỉ có lỗi	0.0	0.6
+không_tập_trung	0.0	0.5
+sáo_rỗng	0.0	0.625
+chỉ quan_tâm	0.125	0.0
+kém đến_đâu	0.125	0.5
+không_được hay	0.0	0.6
+không_được bóng_bẩy	0.0	0.5
+không có kiểu nhận_thức sáo_rỗng	0.5	0.0
+không tạo được cảm hứng	0.0	0.5
+không một_chút sáng_tạo	0.0	0.5
+đáng báo_động	0.0	0.625
+không tệ	0.5	0.0
+hơi xưa_cũ	0.125	0.5
+không_được như_vậy	0.125	0.6
+chỉ_trích	0.125	0.5
+nhiều điều_tốt_đẹp	0.6	0.0
+cũng không_thể cải_thiện được	0.0	0.6
+chưa_chắc khả_năng	0.5	0.125
+không mang lại cảm_hứng	0.0	0.5
+chân_thực hơn	0.5	0.0
+rùng_mình	0.125	0.5
+không dày_cộp	0.5	0.125
+thật khó lắm thay	0.0	0.5
+xì_xào	0.125	0.5
+soi_mói	0.0	0.5
+không khơi dậy	0.125	0.5
+không hào_hứng lắm	0.0	0.5
+không_thể làm_gì hơn được	0.0	0.5
+rất khó chấp_nhận	0.125	0.6
+kém hấp_dẫn	0.125	0.5
+khô_khan	0.0	0.5
+ngây_ngô đến vậy	0.125	0.5
+hành_hạ	0.0	0.6
+thấy sợ	0.125	0.5
+vã_mồ_hôi	0.125	0.5
+bạo_hành	0.0	0.75
+tổn_thương	0.0	0.6
+canh_cánh	0.125	0.5
+cực kỳ phẫn_nộ	0.0	0.875
+chia_buồn	0.125	0.5
+coi_thường	0.5	0.125
+vượt_qua mọi thử_thách	0.5	0.0
+hoàn_thành	0.5	0.0
+ủng hộ	0.5	0.0
+hết sức mình	0.875	0.5
+giữ sức_khoẻ	0.5	0.0
+như mong_muốn	0.625	0.0
+tạo cơ_hội	0.5	0.0
+không_bao_giờ	0.125	0.5
+khó_khăn đến_thế	0.0	0.6
+từ_thiện	0.5	0.0
+ghê nhỉ	0.125	0.5
+bình_thường mà	0.125	0.0
+tạo cơn sốt	0.5	0.125
+không_phải dễ	0.125	0.5
+tăng_lên	0.5	0.0
+hàng_hiệu	0.5	0.0
+chuyện nhỏ	0.5	0.125
+giá quá cao	0.125	0.5
+hiệu_năng	0.5	0.0
+mới gì đâu	0.125	0.5
+giá_đắt lắm	0.0	0.5
+không thèm	0.5	0.0
+chấn_chỉnh và chấm_dứt	0.5	0.0
+choai_choai	0.125	0.5
+đừng buồn	0.5	0.0
+thấu_hiểu	0.6	0.0
+phấn_đấu	0.875	0.0
+đục_khoét của_công	0.0	0.5
+giàu lên vì tham_nhũng	0.0	0.675
+đừng quá quan_tâm	0.5	0.125
+ghét cay ghét_đắng	0.0	0.675
+chẳng việc_gì phải buồn	0.0	0.5
+tính_toán	0.0	0.5
+trọc_phú	0.5	0.125
+thượng_lưu	0.5	0.125
+nhà_giàu	0.675	0.0
+thiển_cận	0.0	0.5
+cổ_hủ	0.125	0.5
+khinh_người	0.0	0.5
+kênh_kiệu	0.0	0.675
+ủy mị	0.125	0.5
+nhàm_chán	0.0	0.625
+giỏi_giang	0.625	0.0
+quá thất_vọng	0.0	0.75
+không_thể_nào chấp_nhận được	0.0	0.875
+chân	0.625	0.0
+thiện	0.625	0.0
+mỹ	0.625	0.0
+lệch_lạc	0.0	0.5
+bàng_hoàng	0.0	0.5
+đáng buồn	0.0	0.875
+lôi_cuốn hơn	0.625	0.0
+uyên_bác	0.875	0.0
+hùng_biện	0.5	0.0
+thấy xót_xa	0.0	0.625
+đau_lòng đến thế_nào	0.0	0.875
+thật khủng_khiếp	0.0	0.625
+choáng_váng	0.0	0.5
+mỏng_manh	0.125	0.5
+đích_đáng	0.0	0.625
+ác hơn_cả thú	0.0	0.875
+tổn_thất nặng_nề	0.0	0.625
+xót_xa đau_lòng	0.0	0.625
+không_còn nhân_tính	0.0	0.875
+thật tức chết đi đuợc	0.0	0.625
+bức_xúc	0.0	0.625
+vô nhân_tính	0.0	0.875
+vô cùng tàn_ác	0.0	0.875
+không có tình_thương	0.0	0.625
+ghét	0.0	0.75
+yêu	0.875	0.0
+thích_thú	0.875	0.0
+a_dua	0.0	0.5
+ác_hiểm	0.0	0.75
+ác_khẩu	0.0	0.5
+ác_liệt	0.0	0.5
+ái_mộ	0.5	0.0
+an_phận	0.125	0.5
+ám_muội	0.0	0.5
+ái_ân	0.75	0.0
+ảo_tưởng	0.25	0.5
+ăn_đủ	0.0	0.5
+ăn_khách	0.5	0.0
+ăn_thua	0.125	0.5
+âm_thầm	0.0	0.5
+ấm_êm	0.5	0.0
+ẩm_ướt	0.125	0.5
+ân_hận	0.25	0.5
+ân_nghĩa	0.5	0.0
+ẩn_nấp	0.5	0.25
+ẩn_ý	0.5	0.25
+ấp_úng	0.25	0.5
+bạc_đãi	0.0	0.5
+bãi_nhiệm	0.25	0.5
+bãi_bỏ	0.25	0.25
+bán_tháo	0.125	0.5
+bàng_quan	0.25	0.5
+bảo_lãnh	0.5	0.25
+bần_bật	0.0	0.25
+báo_oán	0.125	0.5
+chần_chừ	0.125	0.5
+chân_tình	0.75	0.0
+chằng_chịt	0.0	0.25
+bày_vẽ	0.25	0.5
+châm_chọc	0.0	0.5
+bập_bõm	0.125	0.5
+chằm_chằm	0.25	0.5
+be_bét	0.0	0.5
+cấp_bách	0.25	0.5
+cất_nhắc	0.5	0.0
+chăm_chút	0.675	0.0
+chập_chờn	0.0	0.5
+hay	0.5	0.0
+tuyệt	0.6	0.0
+lười	0.0	0.6
+chăm	0.75	0.0
+nghiêm_túc	0.5	0.0
+thở_phào	0.5	0.0
+nhẹ_nhõm	0.6	0.0
+tối_ưu	0.5	0.0
+tiêu_cực	0.0	0.6
+cải_tiến	0.5	0.0
+xinh	0.5	0.0
+xinh_xắn	0.6	0.0
+khờ	0.125	0.5
+ngu	0.0	0.75
+giỏi	0.75	0.0
+xấu	0.0	0.5
+xấu_xí	0.0	0.5
+vung tay quá trán	0.0	0.3
